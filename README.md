@@ -1,3 +1,3 @@
 ### Bluer Resources
 
-A growing list of boilerplates, scaffolds, templates, etc.
+An evolving list of boilerplates, scaffolds, templates, utilities, etc.
